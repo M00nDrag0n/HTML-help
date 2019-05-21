@@ -1,4 +1,4 @@
-#walrus-showing {
+#tacomonster-showing {
   display: none;
 }
 
@@ -8,5 +8,18 @@
 }
 
 .clickable:hover {
+text-decoration: underline;
+}
+
+#animal2-showing {
+  display: none;
+}
+
+.blue-thing {
+ cursor: pointer;
+ color: #0088cc;
+}
+
+.blue-thing:hover {
 text-decoration: underline;
 }
